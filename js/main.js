@@ -202,7 +202,7 @@
 						tr.appendChild(td);
 						continue;
 					}
-					
+				
 				}
 				const tds = itcast.isTttdData({domName:'td'});
 				tds.appendChild(itcast.isOperation());
